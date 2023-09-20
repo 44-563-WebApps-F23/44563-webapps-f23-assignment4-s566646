@@ -7,6 +7,10 @@ div.PeterStockmann{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
     font-size: large;color: rgb(167, 39, 247);}
 div.PeterStockmann:hover{text-shadow: 2px 3px 1px rgb(169, 169, 169); border-style: inset;
   padding: auto; background-color:rgb(241, 164, 221);}
+div.hovstad{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: large;color: rgb(221, 203, 41);}
+div.hovstad:hover{text-shadow: 2px 3px 1px rgb(169, 169, 169); border-style: inset;
+  padding: auto; background-color:rgb(132, 114, 250);}
 
   table {
     font-family:'Courier New', Courier, monospace;
@@ -61,3 +65,4 @@ text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
+
